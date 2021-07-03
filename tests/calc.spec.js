@@ -7,7 +7,7 @@ import {
 } from '../src/calc';
 
 
-describe.only('Calc', () => {
+describe('Calc', () => {
 
     //smoke test
     describe('Smoke tests', () => {
